@@ -129,7 +129,7 @@ Estimates the monthly installment burden on the applicant.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/MuhammadSaadibnMaqsood/CodeAlpha-ML-Internhip-task-1
-cd CodeAlpha-ML-Internhip-task-1
+cd codealpha-tasks
 ```
 
 
@@ -138,7 +138,7 @@ Place your `train.csv` file in the root directory.
 
 ### 3. Run the Notebook
 ```bash
-jupyter task1.ipynb
+jupyter credit-score-model.ipynb
 ```
 
 ---
